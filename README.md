@@ -1,2 +1,2 @@
-# ENMU-CS-Projects
-Some code examples from my ENMU courses
+# ENMU-CS-Projects-Operating-Systems-Concepts
+Some code examples from my Operating Systems Concepts course at ENMU
